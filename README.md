@@ -1,4 +1,3 @@
-# Gartic - Draw, Guess, and Win
+# GarticBot - Guess the Drawing
 
-https://gartic.com/
- 
+https://garticbot.gg/en/
